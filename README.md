@@ -1,11 +1,14 @@
-Wat's Open
+What's Open
 ===
 
 Simple Django site displaying which dining locations are currently open on 
 George Mason University's campus.
 
 For more up-to-date information, view the [What's Open 
-wiki page](http://wiki.srct.gmu.edu/wiki/index.php/Whatsopen).
+wiki page](http://wiki.srct.gmu.edu/index.php/Whatsopen).
+
+Development is no longer happening on this repo. The project moved to 
+[https://git.srct.gmu.edu/](https://git.srct.gmu.edu/), SRCT's GitLab server.
 
 Contributing
 ---
